@@ -44,3 +44,13 @@ Password : imam
 Username : coba@coba.com
 Password : coba
 ```
+
+## Screenshot
+### Homepage
+![Alt text](./screenshots/Beranda%20-%20Projek%20Web%20Rental%20Mobil.png)
+### Car List
+![Alt text](./screenshots/Daftar%20Mobil%20-%20Projek%20Web%20Rental%20Mobil.png)
+### Login Page
+![Alt text](./screenshots/Masuk%20-%20Projek%20Web%20Rental%20Mobil.png)
+### Dashboard Admin
+![Alt text](./screenshots/Dashboard%20-%20Admin%20-%20Projek%20Web%20Rental%20Mobil.png)
